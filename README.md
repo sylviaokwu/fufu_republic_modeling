@@ -110,6 +110,10 @@ Description: The central fact table that captures each sales transaction at Fufu
     - Total_due: The final total amount due after taxes.
 
 
+### ERD
+![image](https://github.com/user-attachments/assets/6cb054e6-2f2f-4c30-9c40-69e1e67d07fe)
+
+
 #### Entity Relationships:
 Branch_dim is related to Order_fact and ProductLocation_dim. Each branch can have multiple sales and manage different inventories of products.
 Customer_dim is related to Order_fact, meaning each sale can be linked to a specific customer for analysis.
