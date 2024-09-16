@@ -1,4 +1,4 @@
-# fFufu Republic Data Modeling
+# Fufu Republic Data Modeling
 
 ## Task
 Case Study: Fufu Republic
